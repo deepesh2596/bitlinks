@@ -9,7 +9,7 @@ const Contact = () => {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">We'd Love to Hear from You</h2>
         <p className="text-lg text-gray-700">
-          Whether you have a question about our services, need assistance, or just want to give us feedback, our team is here to help! Reach out to us, and we’ll do our best to get back to you promptly.
+          Whether you have a question about our services, need assistance, or just want to give us feedback, our team is here to help! Reach out to us, and we'll do our best to get back to you promptly.
         </p>
       </section>
 

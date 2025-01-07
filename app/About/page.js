@@ -51,7 +51,7 @@ const About = () => {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-4">Join Us on Our Journey</h2>
         <p className="text-lg text-gray-700">
-          At BitLinks, we’re constantly working on new ways to make URL shortening even more valuable for our users. We welcome feedback, suggestions, and ideas from our community, and we’re excited to keep building a product that makes a difference. Join us on our journey to redefine link sharing—let’s create shorter links, better experiences, and stronger connections together.
+          At BitLinks, we're constantly working on new ways to make URL shortening even more valuable for our users. We welcome feedback, suggestions, and ideas from our community, and we're excited to keep building a product that makes a difference. Join us on our journey to redefine link sharing—let's create shorter links, better experiences, and stronger connections together.
         </p>
       </section>
 
