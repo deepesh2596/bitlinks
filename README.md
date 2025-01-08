@@ -45,7 +45,7 @@ This project is a **URL Shortener** built with **Next.js**, **HTML**, **CSS**, a
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/url-shortener.git
+   git clone https://github.com/deepesh2596/bitlinks.git
    ```
 2. Navigate to the project folder:
    ```bash
