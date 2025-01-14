@@ -5,7 +5,7 @@ This project is a **URL Shortener** built with **Next.js**, **HTML**, **CSS**, a
 
 ---
 
-## Features
+## ✨ Features
 - Shorten long URLs
 - Track the number of clicks on shortened URLs
 - User-friendly interface
@@ -15,7 +15,7 @@ This project is a **URL Shortener** built with **Next.js**, **HTML**, **CSS**, a
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 ### Frontend
 - Next.js
@@ -36,7 +36,7 @@ This project is a **URL Shortener** built with **Next.js**, **HTML**, **CSS**, a
 
 ---
 
-## Installation and Setup
+## 🚀 Installation and Setup
 
 ### Prerequisites
 - Node.js installed on your system
